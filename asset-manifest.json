@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/selsup-front/static/css/main.89869052.css",
+    "main.js": "/selsup-front/static/js/main.e526f2d5.js",
+    "index.html": "/selsup-front/index.html",
+    "main.89869052.css.map": "/selsup-front/static/css/main.89869052.css.map",
+    "main.e526f2d5.js.map": "/selsup-front/static/js/main.e526f2d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89869052.css",
+    "static/js/main.e526f2d5.js"
+  ]
+}
